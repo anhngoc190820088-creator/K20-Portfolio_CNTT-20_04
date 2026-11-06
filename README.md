@@ -1,4 +1,4 @@
-# Portfolio v7 - Lê Hoài Nam
+# Portfolio v7 - Trần Văn Anh Ngọc
 
 **Thông tin sinh viên:**
 - Họ và tên: Trần Văn Anh Ngọc
